@@ -30,5 +30,5 @@
 ---
 
 ## 🌎 Onde me encontrar
-- 🔗 [LinkedIn](https://linkedin.com/in/ricardo-amisterdan-6bb332143)
-- 📧 [E-mail](ricardo.amisterdanservo@gmail.com)
+- 🔗 LinkedIn: https://linkedin.com/in/ricardo-amisterdan-6bb332143
+- 📧 E-mail: ricardo.amisterdanservo@gmail.com
